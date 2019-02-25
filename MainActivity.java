@@ -1,4 +1,4 @@
-package com.example.betterlocation;
+vpackage com.example.betterlocation;
 
 import android.Manifest;
 import android.content.DialogInterface;
